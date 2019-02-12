@@ -12,3 +12,6 @@ PsuedoCode.
 3. start shopping
 4. Checkout
 5. Close shop by printing total transactions and inventory
+
+To Run:
+Run store_manager.py
